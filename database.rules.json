@@ -1,0 +1,12 @@
+{
+  "rules": {
+    ".read": false,
+    ".write": false,
+    "tabela": {
+      "hztcrd36u3031fz7adkdbhfq": {
+        ".read": true,
+        ".write": true
+      }
+    }
+  }
+}
